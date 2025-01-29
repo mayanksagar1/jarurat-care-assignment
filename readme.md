@@ -115,7 +115,26 @@ The API will run at `http://localhost:5000`.
 
 ### **1. Postman API Tests**
 
-- Example of successful requests to `/create`, `/all`, `/byId/:id`.
+- Example of successful requests to `/users/register`.
+  ![Register](images/register.png)
+
+- Example of successful requests to `/users/login`.
+  ![Login](images/login.png)
+
+- Example of successful requests to `/entries/all`.
+  ![GetAll](images/getAll.png)
+
+- Example of successful requests to `/entries/byId`.
+  ![GetById](images/getById.png)
+
+- Example of successful requests to `/entries/create`.
+  ![Create](images/create.png)
+
+- Example of successful requests to `/entries/update`.
+  ![Update](images/update.png)
+
+- Example of successful requests to `/entries/delete`.
+  ![Delete](images/Delete.png)
 
 ### **2. Code Highlights**
 
